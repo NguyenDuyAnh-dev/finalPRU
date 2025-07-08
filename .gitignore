@@ -1,0 +1,10 @@
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+
+*.dylib
+*.dll
+*.so
+*.apk

@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53E8146D-3F03-E375-7902-32F174D4A539}|Assembly-CSharp.csproj|d:\\truytimkhobau_game3d(kembaocao)\\btl game 3d\\truytimkhobau_game3d_vuthibac\\truytimkhobau_game3d_vuthibac\\assets\\scrips\\invincibleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E8146D-3F03-E375-7902-32F174D4A539}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\invincibleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E8146D-3F03-E375-7902-32F174D4A539}|Assembly-CSharp.csproj|D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\assets\\scrips\\arow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E8146D-3F03-E375-7902-32F174D4A539}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\arow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E8146D-3F03-E375-7902-32F174D4A539}|Assembly-CSharp.csproj|D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\assets\\scrips\\prefabarow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E8146D-3F03-E375-7902-32F174D4A539}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\prefabarow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E8146D-3F03-E375-7902-32F174D4A539}|Assembly-CSharp.csproj|D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\assets\\scrips\\thuhoangdadichuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E8146D-3F03-E375-7902-32F174D4A539}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\thuhoangdadichuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E8146D-3F03-E375-7902-32F174D4A539}|Assembly-CSharp.csproj|D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\assets\\scrips\\dichuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E8146D-3F03-E375-7902-32F174D4A539}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\dichuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E8146D-3F03-E375-7902-32F174D4A539}|Assembly-CSharp.csproj|D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\assets\\scrips\\toe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E8146D-3F03-E375-7902-32F174D4A539}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\toe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E8146D-3F03-E375-7902-32F174D4A539}|Assembly-CSharp.csproj|D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\assets\\scrips\\starprefabcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E8146D-3F03-E375-7902-32F174D4A539}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\starprefabcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E8146D-3F03-E375-7902-32F174D4A539}|Assembly-CSharp.csproj|D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\assets\\scrips\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E8146D-3F03-E375-7902-32F174D4A539}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvincibleItem.cs",
+              "DocumentMoniker": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\Assets\\Scrips\\InvincibleItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\InvincibleItem.cs",
+              "ToolTip": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\Assets\\Scrips\\InvincibleItem.cs",
+              "RelativeToolTip": "Assets\\Scrips\\InvincibleItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:25:31.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dichuyen.cs",
+              "DocumentMoniker": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\Assets\\Scrips\\dichuyen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\dichuyen.cs",
+              "ToolTip": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\Assets\\Scrips\\dichuyen.cs",
+              "RelativeToolTip": "Assets\\Scrips\\dichuyen.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:14:41.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arow.cs",
+              "DocumentMoniker": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\Assets\\Scrips\\Arow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\Arow.cs",
+              "ToolTip": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\Assets\\Scrips\\Arow.cs",
+              "RelativeToolTip": "Assets\\Scrips\\Arow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:14:25.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "toe.cs",
+              "DocumentMoniker": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\Assets\\Scrips\\toe.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\toe.cs",
+              "ToolTip": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\Assets\\Scrips\\toe.cs",
+              "RelativeToolTip": "Assets\\Scrips\\toe.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:13:39.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "thuhoangdadichuyen.cs",
+              "DocumentMoniker": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\Assets\\Scrips\\thuhoangdadichuyen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\thuhoangdadichuyen.cs",
+              "ToolTip": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\Assets\\Scrips\\thuhoangdadichuyen.cs",
+              "RelativeToolTip": "Assets\\Scrips\\thuhoangdadichuyen.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAywCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T05:38:50.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "prefabArow.cs",
+              "DocumentMoniker": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\Assets\\Scrips\\prefabArow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\prefabArow.cs",
+              "ToolTip": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\Assets\\Scrips\\prefabArow.cs",
+              "RelativeToolTip": "Assets\\Scrips\\prefabArow.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T04:59:17.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StarPrefabCreator.cs",
+              "DocumentMoniker": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\Assets\\Scrips\\StarPrefabCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\StarPrefabCreator.cs",
+              "ToolTip": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\Assets\\Scrips\\StarPrefabCreator.cs",
+              "RelativeToolTip": "Assets\\Scrips\\StarPrefabCreator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:51:51.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Star.cs",
+              "DocumentMoniker": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\Assets\\Scrips\\Star.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\Star.cs",
+              "ToolTip": "D:\\TruyTimKhoBau_Game3D(kemBaoCao)\\BTL Game 3D\\TruyTimKhoBau_Game3D_VuThiBac\\TruyTimKhoBau_Game3D_VuThiBac\\Assets\\Scrips\\Star.cs",
+              "RelativeToolTip": "Assets\\Scrips\\Star.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:32:15.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
