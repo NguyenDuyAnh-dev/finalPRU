@@ -15,11 +15,17 @@ public class thuhoangdadichuyen : MonoBehaviour
     private bool isFollowing = false;
     private Vector3 startPos;
 
-    private void Start()
+	public Transform frontCheck; // đặt ở phía trước chân enemy
+	public float rayLength = 1f;
+	public LayerMask groundLayer;
+
+	private void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         startPos = transform.position;
-    }
+		start = transform.position.x - 2f;
+		end = transform.position.x + 2f;
+	}
 
     private void Update()
     {
@@ -35,7 +41,7 @@ public class thuhoangdadichuyen : MonoBehaviour
         {
             isFollowing = false;
         }
-        if (isFollowing && player != null)
+        if (isFollowing && player != null )
         {
             // Đuổi theo player chỉ theo trục X
             Vector3 targetPos = new Vector3(player.position.x, transform.position.y, transform.position.z);
@@ -61,4 +67,9 @@ public class thuhoangdadichuyen : MonoBehaviour
             transform.position = new Vector3(newPosition, transform.position.y, transform.position.z);
         }
     }
+	private bool IsSameLevelOrStepAhead()
+	{
+		RaycastHit2D hit = Physics2D.Raycast(frontCheck.position, Vector2.down, rayLength, groundLayer);
+		return hit.collider != null;
+	}
 }

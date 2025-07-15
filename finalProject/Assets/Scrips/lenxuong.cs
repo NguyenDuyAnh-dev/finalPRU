@@ -11,8 +11,9 @@ public class lenxuong : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
-    }
+		start = transform.position.y - 2f; 
+		end = transform.position.y + 2f;
+	}
 
     // Update is called once per frame
     void Update()
