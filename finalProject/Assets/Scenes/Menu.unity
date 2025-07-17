@@ -302,8 +302,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 3, y: 161}
-  m_SizeDelta: {x: 119.685, y: 50.626297}
+  m_AnchoredPosition: {x: 9.9488, y: 176}
+  m_SizeDelta: {x: 226.5371, y: 52.372}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &125815765
 MonoBehaviour:
@@ -338,7 +338,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: MENU
+  m_Text: "\rMystic Maze"
 --- !u!222 &125815766
 CanvasRenderer:
   m_ObjectHideFlags: 0
